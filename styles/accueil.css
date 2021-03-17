@@ -1,0 +1,13 @@
+body{ margin: 2em;}
+
+
+/* header de la carte avec son h3 */
+.carte{ background-color: chartreuse;}
+.header_purple{ background-color: blueviolet; }
+.header_purple > h3{ display: flex; justify-content: center; color: chartreuse;}
+
+/* numéro d'identité */
+.numero{ background-color: blueviolet;}
+.numero > h3{ display: flex; justify-content: center; color: chartreuse;}
+
+/* l'image du personnage */
